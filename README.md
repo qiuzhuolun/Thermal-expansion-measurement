@@ -29,11 +29,9 @@ $$ \Delta L_{cell} = A(T) + B(T) L $$
 
 Here, $A(T)$ and $B(T)$ are temperature-dependent coefficients. To determine these coefficients, two copper reference samples with different lengths (e.g., a short one of 0.5 mm and a long one of 2 mm) are measured. Using the measured length changes of these two samples and their theoretical values from the literature, the coefficients $A(T)$ and $B(T)$ can be determined by fitting the data to the equation above.
 
+## Data cleaning
+
 ## References
 
 [1] R. Küchler, C. Stingl, and P. Gegenwart, "A uniaxial stress capacitive dilatometer for high-resolution thermal expansion and magnetostriction under multiextreme conditions," *Rev. Sci. Instrum.* **87**, 073903 (2016).
 
-
-
-
-## Data cleaning
